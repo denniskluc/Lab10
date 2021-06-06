@@ -58,13 +58,13 @@
     var treatment = client.getTreatment("double_column");
     if (treatment == "on") {
       // insert code here to show on treatment
-      document.getElementsByTagName("body")[0].className = "double-column";
+      document.getElementsByTagName("body")[0].style.backgroundColor = "pink";
     } else if (treatment == "off") {
       // insert code here to show off treatment
-      document.getElementsByTagName("main")[0].className = "single-column";
+      document.getElementsByTagName("body")[0].style.backgroundColor = "#EFECCA";
     } else {
       // insert your control treatment code here
-      document.getElementsByTagName("main")[0].className = "double-column";
+      document.getElementsByTagName("body")[0].style.backgroundColor = "pink";
   }
 });
   </script>
