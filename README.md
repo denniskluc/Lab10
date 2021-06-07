@@ -1,5 +1,7 @@
 # Lab 10
 
+Authors: Dennis Luc and Behruz (Bruce) Haidrey
+
 # Part 1
 Canny.io page: https://cse110-lab10-denniskluc.canny.io/
 
